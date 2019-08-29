@@ -1,0 +1,4 @@
+# Sorghum bicolor Sbi1/Sbi1.4/SbGDB v181 23 Dec 2010
+# generated using info from final.assembly.fasta
+chr - lkl04 1 0 2922023 black
+# everything mapped to a single unitig
